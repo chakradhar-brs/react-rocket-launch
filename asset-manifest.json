@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-rocket-launch/static/css/main.73df36e1.css",
+    "main.js": "/react-rocket-launch/static/js/main.47a47399.js",
+    "static/js/453.fc57b008.chunk.js": "/react-rocket-launch/static/js/453.fc57b008.chunk.js",
+    "static/media/BG .svg": "/react-rocket-launch/static/media/BG .7d218017f61f693cdf42.svg",
+    "static/media/BG.png": "/react-rocket-launch/static/media/BG.0805d1c579b3eb137695.png",
+    "static/media/rocket-state3.gif": "/react-rocket-launch/static/media/rocket-state3.0cce5ae8b9d79215396c.gif",
+    "static/media/rocket-state2.gif": "/react-rocket-launch/static/media/rocket-state2.fb8e44cf8a488d2ffead.gif",
+    "index.html": "/react-rocket-launch/index.html",
+    "main.73df36e1.css.map": "/react-rocket-launch/static/css/main.73df36e1.css.map",
+    "main.47a47399.js.map": "/react-rocket-launch/static/js/main.47a47399.js.map",
+    "453.fc57b008.chunk.js.map": "/react-rocket-launch/static/js/453.fc57b008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73df36e1.css",
+    "static/js/main.47a47399.js"
+  ]
+}
